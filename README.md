@@ -4,22 +4,16 @@
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - React / Spring / Bootstrap
 - Meu Linkedin - https://www.linkedin.com/in/italo-viana-4a2733207/
-
 ![Profile views](https://gpvc.arturio.dev/italoviana)
-
 <div align="center">
     <!--  -->
    <a href="https://github.com/italoviana">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=italoviana&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoviana&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div><br>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=italoviana&theme=noctis-minimus" alt="italoviana" />
 </p>
-
-
-
 <h3 align="left">Linguagens e ferramentas:</h3>
 <br>
 <p align="center">
